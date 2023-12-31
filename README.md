@@ -32,7 +32,5 @@ Start saving and organizing your favorite links!
 Contributing:
 Contributions are welcome! If you have ideas for improvements or bug fixes, feel free to fork the repository, make your changes, and submit a pull request.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Enjoy organizing your leads with MyLeads! 🚀🌐
