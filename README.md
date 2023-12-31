@@ -1,21 +1,38 @@
-# coc8640b4ab7ea074c56f6bdc
+# Chrome Extension: MyLeads
+MyLeads is a simple Chrome extension that allows you to effortlessly manage and organize your favorite website links. With a clean and intuitive interface, you can easily save, view, and delete your leads with just a few clicks.
 
-Quick start:
+Features:
+1. Save Current Tab URL
+Click the "Save Tab" button to instantly capture the URL of the currently active tab.
+Your leads are automatically stored in your local storage for quick access.
+2. View and Open Leads
+All your saved leads are displayed in a neatly organized list.
+Click on any lead to open it in a new tab.
+3. Delete Leads
+Double-click the "Delete All" button to clear your entire leads list.
+A convenient way to start fresh or declutter your saved URLs.
+How to Use:
+Save Current Tab:
 
-```
-$ npm install
-$ npm start
-````
+Click the "Save Tab" button to add the URL of the current tab to your leads.
+View and Open Leads:
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+All your saved leads are visible in the extension popup.
+Click on any lead to open it in a new tab.
+Delete Leads:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Double-click the "Delete All" button to clear your leads list.
+Manually Add Leads:
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Type a URL into the input field and click "Add" to manually add a lead.
+Getting Started:
+Install the extension by loading it as an unpacked extension in Chrome.
+Open the extension popup by clicking on the extension icon in the Chrome toolbar.
+Start saving and organizing your favorite links!
+Contributing:
+Contributions are welcome! If you have ideas for improvements or bug fixes, feel free to fork the repository, make your changes, and submit a pull request.
 
-Happy Coding!
+License:
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Enjoy organizing your leads with MyLeads! 🚀🌐
